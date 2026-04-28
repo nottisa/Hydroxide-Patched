@@ -1,6 +1,6 @@
 ## Script
 ```lua
-local owner = "Upbolt"
+local owner = "nottisa"
 local branch = "revision"
 
 local function webImport(file)
@@ -13,10 +13,6 @@ webImport("ui/main")
 
 # Hydroxide
 <i>Lua runtime introspection and network capturing tool for games on the Roblox engine.</i>
-
-~~Report issues to our Discord server: https://discord.gg/DJxBwAX~~
-
-<ins>New Discord server will be established when the next major release is ready for use</ins>
 
 <p align="center">
     <img src="https://cdn.discordapp.com/attachments/633472429917995038/722143730500501534/Hydroxide_Logo.png"/>
